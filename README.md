@@ -9,8 +9,7 @@ Astrophysicist turned data scientist with experience in numerical modeling, larg
 - Data visualization in Python
 
 ## 🚀 Projects
-- 🛰️ [PLATO Detection Tools (GitLab)](https://gitlab.obspm.fr/fgutierrez/code)
-- 📊 [PLATO toolkit (in progress)](#)
+- 🛰️ [PLATO Detection Tools (GitLab and in process)](https://gitlab.obspm.fr/fgutierrez/code)
 
 ## 📫 Contact
 - ✉️ carl.cfgc@gmail.com
