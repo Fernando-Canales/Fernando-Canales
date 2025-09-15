@@ -10,7 +10,7 @@ Astrophysicist turned data scientist with experience in numerical modeling, larg
 
 ## 🚀 Projects
 - 🛰️ [PLATO Detection Tools (GitLab and in process)](https://gitlab.obspm.fr/fgutierrez/code)
-- 🔭 [platos-closet 1.1.1](https://pypi.org/project/platos-closet/) 
+- 🔭 [platos-closet 1.1.1](https://github.com/Fernando-Canales/platos_closet) 
 
 ## 📫 Contact
 - ✉️ carl.cfgc@gmail.com
