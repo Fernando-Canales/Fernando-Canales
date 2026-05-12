@@ -1,4 +1,4 @@
-## Hi I'm Fernando Canales 👋
+## Hi, I'm Fernando Canales 👋
 
 Astrophysicist turned data scientist with experience in numerical modeling, large-scale data analysis and software development. I worked on the ESA PLATO space mission during my PhD, developing tools to correctly detect false positives in planetary transit signals using centroid shifts and novel photomtric techniques like double-aperture photometry.
 
